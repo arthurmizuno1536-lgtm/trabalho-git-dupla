@@ -1,4 +1,5 @@
 # trabalho-git-dupla
 
-adicionando linha de demonstração da branch main
+Alteraçao feita por Arthur no branch feature/Arthur
 
+linha exclusiva para ser feita de erro na atividade
